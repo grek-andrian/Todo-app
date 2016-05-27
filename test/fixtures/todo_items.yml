@@ -2,8 +2,8 @@
 
 one:
   content: MyString
-  todo_lists_id: 
+  todo_list_id: 
 
 two:
   content: MyString
-  todo_lists_id: 
+  todo_list_id: 
